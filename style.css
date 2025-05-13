@@ -73,7 +73,7 @@ body {
 }
 
 .secundario_imagem {
-    width: 50%;
+    width: 30%;
 }
 
 .container_descricao {
@@ -130,8 +130,9 @@ body {
     margin-left: 1em;
 }
 
-.rodape_texto {
+.rodape__texto {
     margin: 1em 0;
     color: var(--cinza-secundario);
     font-size: 14px;
 }
+
