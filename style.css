@@ -72,6 +72,11 @@ body {
     margin: 0 10em;
 }
 
+.secundario_botao {
+    display: inline-block;
+    margin-top: 1em;
+}
+
 .secundario_imagem {
     width: 80%;
 }
@@ -114,7 +119,7 @@ body {
 
 
 /* xxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
-.rodape{
+.rodape {
     text-align: center;
     margin: 5em 3em;
 }
@@ -137,4 +142,3 @@ body {
     color: var(--cinza-secundario);
     font-size: 14px;
 }
-
